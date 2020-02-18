@@ -12,7 +12,8 @@ user = input("Enter Username: ")
 Student_ID = input("Enter Student ID (i.e. 000141311): ")
 
 #Birthday:
-Birthday = '04/30/1999'
+#Set your birthday in the '' in form of: mm/dd/yyyy(include '/')
+Birthday = ''
 
 #input new password:
 password = input('Enter new password here: ')
