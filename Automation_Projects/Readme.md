@@ -2,4 +2,4 @@
 
 Project Name | Link to Project
 ------------ | ----------------
-CheyneyPasswordResetAutomation | https://github.com/idesantis91/Python_Projects/blob/master/Automation_Projects/CheyneyPasswordReset.py
+CheyneyPasswordResetAutomation | https://github.com/idesantis91/Python_Projects/blob/master/Automation_Projects/CheyneyPasswordReset.p
